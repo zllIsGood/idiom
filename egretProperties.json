@@ -1,0 +1,41 @@
+{
+  "engineVersion": "5.2.33",
+  "compilerVersion": "5.2.33",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "promise"
+    }
+  ],
+  "targets": {
+    "android": {
+      "appname": "idiom",
+      "packagename": "com.idiom"
+    },
+    "ios": {
+      "appname": "idiom",
+      "packagename": "com.idiom"
+    }
+  }
+}

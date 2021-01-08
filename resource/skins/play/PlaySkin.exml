@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="PlaySkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" fillColor="0xFFF7E7" />
+    <e:Group width="750" height="1334" horizontalCenter="0" verticalCenter="0">
+        <e:Rect fillAlpha="1" fillColor="0xFAE8C1" width="715" height="715" y="168" horizontalCenter="0"
+                ellipseWidth="5" ellipseHeight="5" />
+        <e:Group id="stageNumGrp" y="54" x="135">
+            <e:Image y="0" x="0" source="number_no_png" />
+            <e:Image y="10" x="10" source="number_0_png" />
+            <e:Image y="10" x="10" source="number_level_png" />
+            <e:layout>
+                <e:HorizontalLayout gap="0" />
+            </e:layout>
+        </e:Group>
+        <e:Group id="grp1" y="168" width="715" height="715" horizontalCenter="0">
+            <ns1:AlphabetItem skinName="AlphabetItemSkin" x="8" y="8" />
+        </e:Group>
+        <e:Group id="grp2" y="1005" width="700" height="262" x="25">
+            <ns1:AlphabetItem skinName="AlphabetItemSkin" currentState="bottom" />
+            <ns1:AlphabetItem skinName="AlphabetItemSkin" x="100" y="0" currentState="bottom" />
+        </e:Group>
+        <ns1:PlayTipItem id="playTip" y="910" x="18" skinName="PlayTipItemSkin" />
+        <!--<ns1:PlayTipItem id="" y="746" x="200" skinName="PlayTipItemSkin" />
+        -->
+        <ns1:BaseBtn id="courseBtn" label="" skinName="Btn2Skin" icon="course_btn_png" x="415" y="906" />
+        <ns1:BaseBtn id="tipBtn" label="" y="906" icon="tip_btn_png" x="527" miniIcon="tip_gray_png"
+                     skinName="BaseBtn2Skin" />
+        <ns1:BaseBtn id="replayBtn" label="" y="906" skinName="Btn2Skin" icon="replay_btn_png" x="624" />
+        <ns1:BaseBtn id="returnBtn" label="" skinName="Btn2Skin" icon="home_btn_png" x="18" y="26" scaleX="0.74"
+                     scaleY="0.74" />
+    </e:Group>
+</e:Skin>
+

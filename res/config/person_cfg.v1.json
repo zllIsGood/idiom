@@ -1,0 +1,606 @@
+[
+    {
+        "id": 1,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai2.png",
+        "name": "乞丐",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/qigai4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/qigai5.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qigai_a.png",
+        "stageNum": 0
+    },
+    {
+        "id": 2,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng2.png",
+        "name": "穷书生",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 158,
+            "outlineImg": "",
+            "bodyY": 10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng5.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qiongshusheng_a.png",
+        "stageNum": 1
+    },
+    {
+        "id": 3,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng2.png",
+        "name": "童生",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng5.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/tongsheng_a.png",
+        "stageNum": 16
+    },
+    {
+        "id": 4,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai2.png",
+        "name": "秀才",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/xiucai_a.png",
+        "stageNum": 44
+    },
+    {
+        "id": 5,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren2.png",
+        "name": "举人",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 174,
+            "outlineImg": "",
+            "bodyY": 5,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/juren4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/juren_a.png",
+        "stageNum": 100
+    },
+    {
+        "id": 6,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua2.png",
+        "name": "探花",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 159,
+            "outlineImg": "",
+            "bodyY": 5,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/tanhua_a.png",
+        "stageNum": 160
+    },
+    {
+        "id": 7,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan2.png",
+        "name": "榜眼",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 155,
+            "outlineImg": "",
+            "bodyY": -5,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/bangyan_a.png",
+        "stageNum": 220
+    },
+    {
+        "id": 8,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan2.png",
+        "name": "状元",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 184,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhuangyuan_a.png",
+        "stageNum": 280
+    },
+    {
+        "id": 9,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan2.png",
+        "name": "芝麻官",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 215,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhimaguan_a.png",
+        "stageNum": 340
+    },
+    {
+        "id": 10,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang2.png",
+        "name": "侍郎",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 182,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/shilang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/shilang_a.png",
+        "stageNum": 400
+    },
+    {
+        "id": 11,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan2.png",
+        "name": "县官",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 183,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/xianguan_a.png",
+        "stageNum": 460
+    },
+    {
+        "id": 12,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue2.png",
+        "name": "太学",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 159,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/taixue4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/taixue_a.png",
+        "stageNum": 520
+    },
+    {
+        "id": 13,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin2.png",
+        "name": "翰林",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/hanlin_a.png",
+        "stageNum": 580
+    },
+    {
+        "id": 14,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu2.png",
+        "name": "知府",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhifu_a.png",
+        "stageNum": 640
+    },
+    {
+        "id": 15,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu2.png",
+        "name": "尚书",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 157,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/shangshu_a.png",
+        "stageNum": 700
+    },
+    {
+        "id": 16,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige2.png",
+        "name": "内阁",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/neige4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/neige_a.png",
+        "stageNum": 760
+    },
+    {
+        "id": 17,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang2.png",
+        "name": "丞相",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 162,
+            "outlineImg": "",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/chengxiang_a.png",
+        "stageNum": 820
+    },
+    {
+        "id": 18,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou2.png",
+        "name": "宁远侯",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 163,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/ningyuanhou_a.png",
+        "stageNum": 880
+    },
+    {
+        "id": 19,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong2.png",
+        "name": "辅国公",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/fuguogong_a.png",
+        "stageNum": 940
+    },
+    {
+        "id": 20,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong2.png",
+        "name": "镇国公",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": -10,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/zhenguogong_a.png",
+        "stageNum": 1000
+    },
+    {
+        "id": 21,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang2.png",
+        "name": "郡王",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/junwang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/junwang_a.png",
+        "stageNum": 1080
+    },
+    {
+        "id": 22,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang2.png",
+        "name": "亲王",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/qinwang_a.png",
+        "stageNum": 1160
+    },
+    {
+        "id": 23,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang2.png",
+        "name": "皇上",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 158,
+            "outlineImg": "",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang_h.png",
+        "angryImg": "https://cdnzmg.zmfamily.cn/idiom/role/huangshang_a.png",
+        "stageNum": 1240
+    }
+]

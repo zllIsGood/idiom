@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="DailyTaskSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" />
+    <e:Group width="750" height="1334" horizontalCenter="0" verticalCenter="0">
+        <e:Image source="daily_task_bg_jpg" />
+        <e:Label id="lab" text="（今日还有3次挑战机会）" textColor="0xFFFFFC" size="20" horizontalCenter="0" stroke="2"
+                 strokeColor="0x3C2D1A" y="969" />
+        <e:Label id="curLab" text="15/20  题" textColor="0xFFFFFF" size="30" y="145" horizontalCenter="-263" />
+        <e:Group id="grp" y="238" horizontalCenter="0">
+            <ns1:DailyWordItem skinName="DailyWordItemSkin" x="0" y="0" />
+            <ns1:DailyWordItem skinName="DailyWordItemSkin" x="10" y="10" />
+            <ns1:DailyWordItem skinName="DailyWordItemSkin" x="20" y="20" />
+            <ns1:DailyWordItem skinName="DailyWordItemSkin" x="30" y="30" />
+            <e:layout>
+                <e:HorizontalLayout gap="22" />
+            </e:layout>
+        </e:Group>
+        <ns1:DailyHeroItem id="LHero" skinName="RoleItemSkin" x="101" y="550" />
+        <ns1:DailyHeroItem id="RHero" skinName="RoleItemSkin" x="429" y="550" />
+        <ns1:DailySelectItem id="LSelect" skinName="DailySelectItemSkin" x="464" y="413" />
+        <ns1:DailySelectItem id="RSelect" skinName="DailySelectItemSkin" x="133" y="413" />
+        <ns1:BaseBtn id="btn" label="" skinName="Btn2Skin" icon="btn_kspa_png" horizontalCenter="0" bottom="226" />
+        <ns1:BaseBtn id="homeBtn" label="" skinName="Btn2Skin" icon="home_btn_png" y="19" x="15" scaleX="0.758"
+                     scaleY="0.758" />
+    </e:Group>
+</e:Skin>
+

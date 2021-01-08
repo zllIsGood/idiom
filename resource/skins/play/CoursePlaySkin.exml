@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="CoursePlaySkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group id="grp" width="650" height="948" horizontalCenter="0" verticalCenter="-41.5">
+        <e:Image id="bg" x="0" y="0" height="948" source="bg_xtc_png" scale9Grid="30,57,19,9" width="650" />
+        <e:Image y="45" horizontalCenter="0" source="img_howplay_png" />
+        <e:Group id="radioGrp" y="856" x="226">
+            <e:Image y="0" x="0" source="radio_gray_png" />
+            <e:Image y="10" source="radio_gray_png" x="10" />
+            <e:Image y="20" source="radio_gray_png" x="20" />
+            <e:Image y="30" source="radio_gray_png" x="30" />
+            <e:layout>
+                <e:HorizontalLayout gap="28" />
+            </e:layout>
+        </e:Group>
+        <ns1:BaseBtn id="btnL" label="" y="821" skinName="Btn2Skin" icon="course_btn_left_operate_png" x="104" />
+        <ns1:BaseBtn id="btnR" label="" y="821" skinName="Btn2Skin" icon="course_btn_right_operate_png" x="442" />
+        <ns1:BaseBtn id="closeBtn" label="" skinName="Btn2Skin" icon="dialog_close_btn_png" right="-16" top="-30" />
+    </e:Group>
+</e:Skin>
+

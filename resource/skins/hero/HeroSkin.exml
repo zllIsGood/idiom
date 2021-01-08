@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HeroSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="650" height="1040" horizontalCenter="0" verticalCenter="-27">
+        <e:Image id="bg" x="0" y="0" height="1040" source="bg_xtc_png" scale9Grid="30,57,19,9" width="650" />
+        <e:Image y="40" horizontalCenter="0" source="hero_title_png" />
+        <e:Scroller id="scrol" horizontalCenter="0" top="112" bottom="40">
+            <e:DataGroup id="list" itemRendererSkinName="HeroGroupItemSkin" useVirtualLayout="false">
+                <e:ArrayCollection>
+                    <e:Array></e:Array>
+                </e:ArrayCollection>
+                <e:layout>
+                    <e:VerticalLayout horizontalAlign="center" gap="20" paddingRight="5" />
+                </e:layout>
+            </e:DataGroup>
+        </e:Scroller>
+        <ns1:BaseBtn id="closeBtn" label="" skinName="Btn2Skin" icon="dialog_close_btn_png" right="-16" top="-30" />
+    </e:Group>
+</e:Skin>
+

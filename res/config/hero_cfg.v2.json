@@ -1,0 +1,1616 @@
+[
+    {
+        "id": 1,
+        "sageType": 1,
+        "sageTypeName": "战神",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 188,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 200,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu4.png"
+                }
+            ]
+        },
+        "name": "项羽",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiangyu_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiangyu_h.png",
+        "isSpecial": false,
+        "description": "中国军事思想“兵形势”代表人物（兵家四势：兵形势、兵权谋、兵阴阳、兵技巧），堪称中国历史上最强的武将之一，古人对其有“羽之神勇，千古无二”的评价。"
+    },
+    {
+        "id": 2,
+        "sageType": 1,
+        "sageTypeName": "战神",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 177,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi.png",
+            "bodyY": 40,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 200,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi.png",
+            "bodyY": 10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi4.png"
+                }
+            ]
+        },
+        "name": "白起",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baiqi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baiqi_h.png",
+        "isSpecial": false,
+        "description": "战国时期名将，杰出的军事家，“兵家”代表人物。"
+    },
+    {
+        "id": 3,
+        "sageType": 1,
+        "sageTypeName": "战神",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 197,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin.png",
+            "bodyY": 30,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 202,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin.png",
+            "bodyY": 30,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin4.png"
+                }
+            ]
+        },
+        "name": "韩信",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanxin_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanxin_h.png",
+        "isSpecial": false,
+        "description": "中国军事思想“兵权谋家”的代表人物，被后人奉为“兵仙”、“神帅”。 “韩信点兵，多多益善”是有关于他的典故。"
+    },
+    {
+        "id": 4,
+        "sageType": 1,
+        "sageTypeName": "战神",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 163,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu.png",
+            "bodyY": 40,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 193,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu.png",
+            "bodyY": 10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu4.png"
+                }
+            ]
+        },
+        "name": "孙武",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/sunwu_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/sunwu_h.png",
+        "isSpecial": false,
+        "description": "中国春秋时期著名的军事家、政治家，尊称兵圣或孙子（孙武子），又称“兵家至圣”，被誉为“百世兵家之师”、“东方兵学的鼻祖”。"
+    },
+    {
+        "id": 5,
+        "sageType": 2,
+        "sageTypeName": "思想家",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi4.png"
+                }
+            ]
+        },
+        "name": "老子",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi2.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/laozi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/laozi_h.png",
+        "isSpecial": false,
+        "description": "中国古代思想家、哲学家、文学家和史学家，道家学派创始人和主要代表人物，与庄子并称“老庄”。"
+    },
+    {
+        "id": 6,
+        "sageType": 2,
+        "sageTypeName": "思想家",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi4.png"
+                }
+            ]
+        },
+        "name": "孔子",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi2.png",
+        "isSpecial": true,
+        "description": "中国古代思想家、政治家、教育家，儒家学派创始人。后世尊称其为“大成至圣先师”，并沿用至现代。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi_n.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi2.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/kongzi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/kongzi_h.png"
+    },
+    {
+        "id": 7,
+        "sageType": 2,
+        "sageTypeName": "思想家",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi4.png"
+                }
+            ]
+        },
+        "name": "庄子",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi2.png",
+        "isSpecial": true,
+        "description": "战国中期道家学派代表人物，思想家、哲学家、文学家，庄学的创立者，与老子并称“老庄”。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi_n.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi2.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhuangzi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhuangzi_h.png"
+    },
+    {
+        "id": 8,
+        "sageType": 2,
+        "sageTypeName": "思想家",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei4.png"
+                }
+            ]
+        },
+        "name": "韩非",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei2.png",
+        "isSpecial": false,
+        "description": "韩非是法家思想之集大成者。他将商鞅的“法”、申不害的“术”和慎到的“势”集于一身，并且将老子的辩证法、朴素唯物主义与法融为一体，为后世留下了大量言论著作。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 221,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei_n.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei2.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/hanfei_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/hanfei_h.png"
+    },
+    {
+        "id": 9,
+        "sageType": 3,
+        "sageTypeName": "倾国容颜",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan.png",
+            "bodyY": 0
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan.png",
+            "bodyY": 0
+        },
+        "name": "貂蝉",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/diaochan_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/diaochan_h.png",
+        "isSpecial": false,
+        "description": "“闭月”是貂蝉的代称。貂蝉在后花园拜月时，忽然轻风吹来，一块浮云将那皎洁的明月遮住。"
+    },
+    {
+        "id": 10,
+        "sageType": 3,
+        "sageTypeName": "倾国容颜",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan4.png"
+                }
+            ]
+        },
+        "name": "杨玉环",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangyuhuan_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangyuhuan_h.png",
+        "isSpecial": false,
+        "description": "唐朝时期后妃、宫廷音乐家、舞蹈家、中国古代四大美女之一，追封齐国公杨玄琰之女，宰相杨国忠堂妹。"
+    },
+    {
+        "id": 11,
+        "sageType": 3,
+        "sageTypeName": "倾国容颜",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi4.png"
+                }
+            ]
+        },
+        "name": "西施",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xishi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xishi_h.png",
+        "isSpecial": false,
+        "description": "春秋时期越国美女，一般称为西施，后人尊称其“西子“，大美女享有“沉鱼落雁之容，闭月羞花之貌”之美誉。其中的“沉鱼”一词，讲述的就是“西施浣纱”的故事。"
+    },
+    {
+        "id": 12,
+        "sageType": 3,
+        "sageTypeName": "倾国容颜",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 240,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun4.png"
+                }
+            ]
+        },
+        "name": "王昭君",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wangzhaojun_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wangzhaojun_h.png",
+        "isSpecial": false,
+        "description": "与貂蝉、西施、杨玉环并称中国古代四大美女，是中国古代四大美女之一的“落雁”。"
+    },
+    {
+        "id": 13,
+        "sageType": 4,
+        "sageTypeName": "忠心报国",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing4.png"
+                }
+            ]
+        },
+        "name": "霍去病",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huoqubing_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huoqubing_h.png",
+        "isSpecial": false,
+        "description": "中国西汉武帝时期名将，汉族，杰出的军事家。汉朝时击败匈奴的重要汉军将领，六次抵御匈奴。"
+    },
+    {
+        "id": 14,
+        "sageType": 4,
+        "sageTypeName": "忠心报国",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei4.png"
+                }
+            ]
+        },
+        "name": "岳飞",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuefei_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuefei_h.png",
+        "isSpecial": false,
+        "description": "南宋时期抗金名将、军事家、战略家、民族英雄、书法家、诗人，位列南宋“中兴四将”之首。"
+    },
+    {
+        "id": 15,
+        "sageType": 4,
+        "sageTypeName": "忠心报国",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu4.png"
+                }
+            ]
+        },
+        "name": "文成公主",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/wenchenggongzhu_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/wenchenggongzhu_h.png",
+        "isSpecial": false,
+        "description": "嫁给吐蕃赞普松赞干布，成为王后，促成唐蕃结为姻亲之好。文成公主入藏，唐蕃之间的友谊有了很大的发展，由于文成公主的博学多能，对吐蕃国的开化影响很大。"
+    },
+    {
+        "id": 16,
+        "sageType": 4,
+        "sageTypeName": "忠心报国",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 239,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan4.png"
+                }
+            ]
+        },
+        "name": "屈原",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/quyuan_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/quyuan_h.png",
+        "isSpecial": false,
+        "description": "屈原是中国历史上一位伟大的爱国诗人，中国浪漫主义文学的奠基人，“楚辞”的创立者和代表作家。"
+    },
+    {
+        "id": 17,
+        "sageType": 5,
+        "sageTypeName": "隋唐英雄",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao5.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao5.png"
+                }
+            ]
+        },
+        "name": "秦叔宝",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/qinshubao_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/qinshubao_h.png",
+        "isSpecial": false,
+        "description": "隋唐英雄人物，随唐王李世民南征北战，屡立战功，浑身伤病，拜左武卫大将军、翼国公。"
+    },
+    {
+        "id": 18,
+        "sageType": 5,
+        "sageTypeName": "隋唐英雄",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong.png",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong5.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong.png",
+            "bodyY": -10,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong5.png"
+                }
+            ]
+        },
+        "name": "尉迟恭",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuchugong_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuchugong_h.png",
+        "isSpecial": false,
+        "description": "高祖武德九年，太子建成、齐王元吉为争夺王位，在玄武门伏击秦王李世民。尉迟恭再次拼死救驾，杀死建成、元吉，帮助李世民登上帝位。"
+    },
+    {
+        "id": 19,
+        "sageType": 5,
+        "sageTypeName": "隋唐英雄",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin4.png"
+                }
+            ]
+        },
+        "name": "程咬金",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/chengyaojin_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/chengyaojin_h.png",
+        "isSpecial": false,
+        "description": "随李世民破宋金刚、擒窦建德、降王世充，以功封宿国公。参与玄武门之变，历泸州都督、左领军大将军，改封卢国公，世袭普州刺史。"
+    },
+    {
+        "id": 20,
+        "sageType": 5,
+        "sageTypeName": "隋唐英雄",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba5.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 277,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba5.png"
+                }
+            ]
+        },
+        "name": "李元霸",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liyuanba_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liyuanba_h.png",
+        "isSpecial": false,
+        "description": "隋唐第一好汉，手持一对八百斤金锤，纵横天下。"
+    },
+    {
+        "id": 21,
+        "sageType": 6,
+        "sageTypeName": "铁面无私",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng.png",
+            "bodyY": 16
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng4.png"
+                }
+            ]
+        },
+        "name": "包拯",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/baozheng_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/baozheng_h.png",
+        "isSpecial": false,
+        "description": "包拯廉洁公正、立朝刚毅，不附权贵，铁面无私，且英明决断，敢于替百姓申不平，故有“包青天”及“包公”之名。"
+    },
+    {
+        "id": 22,
+        "sageType": 6,
+        "sageTypeName": "铁面无私",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie4.png"
+                }
+            ]
+        },
+        "name": "狄仁杰",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/direnjie_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/direnjie_h.png",
+        "isSpecial": false,
+        "description": "狄仁杰的一生，可以说是宦海浮沉；狄仁杰为人正直，疾恶如仇，把孝、忠、廉称之为大义。"
+    },
+    {
+        "id": 23,
+        "sageType": 6,
+        "sageTypeName": "铁面无私",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang4.png"
+                }
+            ]
+        },
+        "name": "元芳",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yuanfang_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yuanfang_h.png",
+        "isSpecial": false,
+        "description": "李元芳是狄仁杰的卫队长，狄仁杰身边很能干的助手。他性情刚烈，做事认真，且原则性很强。"
+    },
+    {
+        "id": 24,
+        "sageType": 6,
+        "sageTypeName": "铁面无私",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 252,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao4.png"
+                }
+            ]
+        },
+        "name": "展昭",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhanzhao_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhanzhao_h.png",
+        "isSpecial": false,
+        "description": "皇上御封为御前四品带刀护卫，封号“御猫”，在开封府供职，是包拯身边的得力助手。"
+    },
+    {
+        "id": 25,
+        "sageType": 7,
+        "sageTypeName": "侠骨柔情",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo4.png"
+                }
+            ]
+        },
+        "name": "杨过",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/yangguo_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/yangguo_h.png",
+        "isSpecial": false,
+        "description": "是金庸武侠小说《神雕侠侣》的主人公，名扬天下的“神雕侠侣”。最后一次华山论剑后，与妻子小龙女绝迹江湖。"
+    },
+    {
+        "id": 26,
+        "sageType": 7,
+        "sageTypeName": "侠骨柔情",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv.png",
+            "bodyY": 16
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv.png",
+            "bodyY": 16
+        },
+        "name": "小龙女",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/xiaolongnv_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/xiaolongnv_h.png",
+        "isSpecial": false,
+        "description": "是金庸武侠小说《神雕侠侣》的主人公，扬名天下的“神雕侠侣”最后一次华山论剑后，与杨过归隐江湖。"
+    },
+    {
+        "id": 27,
+        "sageType": 7,
+        "sageTypeName": "侠骨柔情",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing5.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing4.png"
+                },
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing5.png"
+                }
+            ]
+        },
+        "name": "郭靖",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guojing_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guojing_h.png",
+        "isSpecial": true,
+        "description": "郭靖 ，是金庸武侠小说《射雕英雄传》中的男主角和《神雕侠侣》中的重要角色，他用一生来践行“侠之大者，为国为民”的精神，其巨大的人格力量也感染了他身边的人。"
+    },
+    {
+        "id": 28,
+        "sageType": 7,
+        "sageTypeName": "侠骨柔情",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong4.png"
+                }
+            ]
+        },
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong.png",
+            "bodyY": 16,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong4.png"
+                }
+            ]
+        },
+        "name": "黄蓉",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong3.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong2.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong2.png",
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/huangrong_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/huangrong_h.png",
+        "isSpecial": true,
+        "description": "黄蓉，是《射雕英雄传》的女主角和《神雕侠侣》的重要角色，与郭靖一生相恋、患难与共，全心全意助他，后辅佐夫君保家卫国，竭尽所能。"
+    },
+    {
+        "id": 29,
+        "sageType": 8,
+        "sageTypeName": "智多星",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang4.png"
+                }
+            ]
+        },
+        "name": "诸葛亮",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang2.png",
+        "isSpecial": false,
+        "description": "字孔明，号卧龙，三国时期蜀汉丞相，中国古代杰出的政治家、军事家、文学家。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhugeliang_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang_h.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhugeliang2.png"
+    },
+    {
+        "id": 30,
+        "sageType": 8,
+        "sageTypeName": "智多星",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi4.png"
+                }
+            ]
+        },
+        "name": "鬼谷子",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi2.png",
+        "isSpecial": false,
+        "description": "是战国时期著名的军事权谋大师。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi_n.png",
+        "hairImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi_ha.png",
+        "hairImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi_ha.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/guiguzi_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi_h.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/guiguzi2.png"
+    },
+    {
+        "id": 31,
+        "sageType": 8,
+        "sageTypeName": "智多星",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen4.png"
+                }
+            ]
+        },
+        "name": "刘伯温",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen2.png",
+        "isSpecial": true,
+        "description": "刘基辅佐朱元璋平天下，计划立定，人莫能测。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/liubowen_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen_h.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/liubowen2.png"
+    },
+    {
+        "id": 32,
+        "sageType": 8,
+        "sageTypeName": "智多星",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang4.png"
+                }
+            ]
+        },
+        "name": "张良",
+        "energy": 10,
+        "cd": 0,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang2.png",
+        "isSpecial": true,
+        "description": "秦末汉初杰出谋臣，西汉开国功臣，政治家，与韩信、萧何并称为“汉初三杰”。",
+        "data2": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang1.png",
+            "scale": 1,
+            "headH": 160,
+            "headY": 0,
+            "w": 231,
+            "outlineImg": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang.png",
+            "bodyY": 0,
+            "exParts": [
+                {
+                    "exY": 0,
+                    "img": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang4.png"
+                }
+            ]
+        },
+        "normalImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang_n.png",
+        "normalImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang_n.png",
+        "cryImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang_c.png",
+        "cryImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang_c.png",
+        "happyImg": "https://cdnzmg.zmfamily.cn/idiom/hero/zhangliang_h.png",
+        "happyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang_h.png",
+        "bodyImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang3.png",
+        "headImg2": "https://cdnzmg.zmfamily.cn/idiom/heroupgrade/zhangliang2.png"
+    }
+]

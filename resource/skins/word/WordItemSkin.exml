@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WordItemSkin" width="223" height="56" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Image id="img" verticalCenter="0" x="0" source="img_kuang1_png" />
+    <e:Label id="lab1" text="abc" bold="true" textColor="0x2B292E" size="34" x="60" verticalCenter="0" />
+</e:Skin>
+

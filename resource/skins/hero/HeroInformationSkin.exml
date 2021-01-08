@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HeroInformationSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="650" height="948" horizontalCenter="0" verticalCenter="-57.5">
+        <e:Image id="bg" x="0" y="0" height="948" source="bg_xtc_png" scale9Grid="30,57,19,9" width="650" />
+        <ns1:HeroItem id="heroItem" skinName="HeroItemSkin" horizontalCenter="0" y="28" currentState="mini" />
+        <e:Image y="317" height="604" source="heor_info_frame_png" scale9Grid="77,12,462,10" horizontalCenter="0" />
+        <e:Scroller width="600" y="334" height="570" horizontalCenter="0">
+            <e:Group id="grp">
+                <e:layout>
+                    <e:VerticalLayout/>
+                </e:layout>
+                <ns1:HeroInformationItem skinName="HeroInformationItemSkin" />
+            </e:Group>
+        </e:Scroller>
+        <ns1:BaseBtn id="closeBtn" label="" skinName="Btn2Skin" icon="dialog_close_btn_png" right="-16" top="-30" />
+    </e:Group>
+</e:Skin>
+

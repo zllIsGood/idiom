@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HeroSelectSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.7" />
+    <e:Group width="660" height="731" horizontalCenter="0" verticalCenter="0">
+        <e:Image source="hero_zhuanpan_png" x="0" />
+        <e:Image y="-44" source="hero_zbmm_png" horizontalCenter="0.5" />
+        <e:Image y="336" x="393" source="hero_super_png" anchorOffsetX="50.5" anchorOffsetY="188" rotation="45" />
+        <e:Image y="525" x="474" anchorOffsetX="25" anchorOffsetY="77" source="energy_bar_icon_png" />
+        <e:Image y="525" x="203" source="energy_bar_icon_png" anchorOffsetX="25" anchorOffsetY="77" />
+        <e:Image y="305" x="203" source="energy_bar_icon_png" anchorOffsetX="25" anchorOffsetY="77" />
+        <e:Image id="zhiImg" x="330" y="380" source="hero_zp_quan_png" anchorOffsetX="68" anchorOffsetY="149" />
+        <e:Image id="LHit" x="168" y="541" anchorOffsetY="44" source="hero_guhua_png" anchorOffsetX="44" visible="false" />
+        <e:Image id="RHit" x="494" y="539" source="hero_guhua_png" anchorOffsetY="44" anchorOffsetX="44" visible="false" />
+        <e:Image id="Limg" x="100" y="650" source="hero_gucui_png" anchorOffsetY="131" rotation="-45" />
+        <e:Image id="Rimg" x="568" y="650" source="hero_gucui_png" scaleX="-1" anchorOffsetX="0" anchorOffsetY="131"
+                 rotation="45" />
+        <ns1:BaseBtn id="btn" label="" skinName="Btn2Skin" icon="hero_kaishi_png" horizontalCenter="0" bottom="-30" />
+    </e:Group>
+</e:Skin>
+

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HeroItemSkin" width="194" height="300" currentState="nor" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" states="nor,mini">
+    <e:Image id="bg" source="character_item_bg_png" horizontalCenter="0" y="0" />
+    <e:Image id="img" horizontalCenter="0" verticalCenter="-31" />
+    <e:Image id="red" source="red_dot_png" right="-3" top="-3" visible.mini="false" />
+    <e:Label id="lab" text="王昭君" bold="true" textColor="0x7D4935" size="24" y="257" horizontalCenter="0" />
+    <e:Group id="grp0" x="142" y="196" visible.mini="false">
+        <e:CheckBox id="checkbox" y="0" skinName="CheckBox1" x="0" />
+    </e:Group>
+    <e:Group id="grp1" x="66" y="221" visible.mini="false">
+        <e:Image id="img3" source="hero_chip_png" />
+        <e:Label id="lab1" text="0/3" bold="true" textColor="0x5E291C" size="16" x="30" y="1" />
+    </e:Group>
+    <e:Group id="grp2" width="194" height="247" visible.mini="false">
+        <e:Label id="lab2" text="可\n升\n级" bold="true" textColor="0x31BD1B" size="18" x="163" y="90" />
+    </e:Group>
+    <e:Label id="lab0" text="1级" bold="true" textColor="0xffffff" size="23" x="15" y="9" visible.mini="false" />
+</e:Skin>

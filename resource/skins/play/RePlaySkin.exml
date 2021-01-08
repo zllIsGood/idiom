@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RePlaySkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="650" height="343" horizontalCenter="0" verticalCenter="-63.5">
+        <e:Image id="bg" x="0" y="0" source="bg_xtc_png" width="650" height="343" scale9Grid="25,56,29,13" />
+        <ns1:BaseBtn id="btn" label="" y="205" skinName="Btn2Skin" icon="replay_sure_btn_png" horizontalCenter="0" />
+        <ns1:BaseBtn id="closeBtn" label="" skinName="Btn2Skin" icon="dialog_close_btn_png" right="-9" top="-10" />
+        <e:Label text="重新开始本关？" y="104" textColor="0x000000" size="48" horizontalCenter="0" bold="true" />
+    </e:Group>
+</e:Skin>
+

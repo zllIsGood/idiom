@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="DailySelectItemSkin" width="134" height="130" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Image y="0" x="0" source="daily_01_png" />
+    <e:Label id="lab" text="顾" bold="true" textColor="0x2B292E" size="70" horizontalCenter="0" y="18" />
+</e:Skin>

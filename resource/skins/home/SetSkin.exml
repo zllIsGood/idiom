@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="SetSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="702" height="600" horizontalCenter="0" verticalCenter="-87">
+        <e:Image id="bg" x="0" y="0" height="600" source="bg_tc_png" scale9Grid="190,155,282,15" />
+        <e:Image y="-7" horizontalCenter="0" source="img_shezhi_png" />
+        <e:Image y="75" source="app_icon_png" horizontalCenter="0" />
+        <e:Image height="75" y="373" x="60" source="dialog_minbg_png" width="565" scale9Grid="15,21,18,129" />
+        <e:Image id="set_about" y="392" x="569" source="set_about_png" />
+        <e:Label id="appLab" size="36" text="" textColor="0x2b292e" horizontalCenter="0" y="269" />
+        <e:Label id="verLab" size="23" text="V1.0" textColor="0x2b292e" horizontalCenter="0" y="312" />
+        <e:Label id="usLab" size="36" text="关于我们" textColor="0x854529" y="395" x="85" />
+        <e:Group id="protoGrp" bottom="64" horizontalCenter="0">
+            <e:Label id="userProto" size="36" text="服务协议" textColor="0x0B9AD9" />
+            <e:Label size="36" text="|" textColor="0x0B9AD9" />
+            <e:Label id="priviteProto" size="36" text="隐私政策" textColor="0x0B9AD9" />
+            <e:layout>
+                <e:HorizontalLayout gap="15" />
+            </e:layout>
+        </e:Group>
+        <e:Group id="closeBtn" y="44" width="80" height="80" right="6"></e:Group>
+    </e:Group>
+</e:Skin>
+

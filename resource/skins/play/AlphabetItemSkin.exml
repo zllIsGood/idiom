@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="AlphabetItemSkin" width="73" height="73" width.bottom="94" height.bottom="94" currentState="top"
+        xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" states="top,bottom">
+    <e:Image id="img" source="square_state_blank_png" horizontalCenter="0" verticalCenter="0"
+             scale9Grid.bottom="33,31,8,12" source.bottom="play_letter_select_png" />
+    <e:Label id="lab" text="故" textColor="0x2B292E" horizontalCenter="0" verticalCenter="0" size="42" size.bottom="68"
+             size.top="54" />
+</e:Skin>

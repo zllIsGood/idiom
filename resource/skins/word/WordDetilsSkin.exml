@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WordDetilsSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="702" height="925" horizontalCenter="0" verticalCenter="-25">
+        <e:Image id="bg" x="0" y="0" height="925" source="bg_tc_png" scale9Grid="190,155,282,15" />
+        <e:Image y="-7" horizontalCenter="0" source="img_scb_png" />
+        <e:Image y="232" horizontalCenter="0" width="576" source="ui_book_labbg_png" scale9Grid="17,59,7,356" />
+        <e:Group y="63" width="428" x="137">
+            <ns1:WordSpellItem id="spellItem0" y="0" x="0" skinName="wordSpellItemSkin" />
+            <ns1:WordSpellItem y="0" x="110" skinName="wordSpellItemSkin" id="spellItem1" />
+            <ns1:WordSpellItem y="0" x="220" skinName="wordSpellItemSkin" id="spellItem2" />
+            <ns1:WordSpellItem y="0" x="330" skinName="wordSpellItemSkin" id="spellItem3" />
+        </e:Group>
+        <e:Label id="labL" text="" textColor="0x978D7B" size="24" y="744" horizontalCenter="-150" />
+        <e:Label id="labR" text="大家一起来学习" textColor="0x978D7B" size="24" y="744" horizontalCenter="140.5" />
+        <ns1:BaseBtn id="errBtn" label="" skinName="Btn2Skin" icon="word_error_png" y="128" x="55" />
+        <ns1:BaseBtn id="btnL" label="" skinName="Btn2Skin" icon="mastered_btn_png" x="70" y="780" />
+        <ns1:BaseBtn id="btnR" label="" skinName="Btn2Skin" icon="word_share_btn_png" y="780" right="70" />
+        <e:Scroller id="scrol" width="540" height="400" y="260" horizontalCenter="0">
+            <e:Group>
+                <e:Image source="ui_book_means_png" x="5" y="5" />
+                <e:Label text="释义" textColor="0x868686" size="30" x="55" lineSpacing="10" y="8" />
+                <e:Label id="content" text="" textColor="0x2B292E" size="30" x="5" y="55" lineSpacing="10" width="530" />
+            </e:Group>
+        </e:Scroller>
+        <e:Group id="closeBtn" y="44" width="80" height="80" right="6"></e:Group>
+    </e:Group>
+</e:Skin>
+

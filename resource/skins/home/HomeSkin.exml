@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="HomeSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <!--<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    -->
+    <e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="" />
+    <e:Group id="mainGrp" width="750" height="1334" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="house" y="0" x="0" source="" />
+        <e:Scroller id="scrol0" width="750" height="440" y="425" x="0" scrollPolicyV="off" scrollPolicyH="on"
+                    touchEnabled="false">
+            <e:Group id="heroGrp" y="597" touchEnabled="false">
+                <e:Group id="heroGrp0" y="20" height="300" x="0" scaleX="1" scaleY="1" />
+                <e:Group id="heroGrp1" height="300" x="0" scaleX="1" scaleY="1" y="120" />
+            </e:Group>
+        </e:Scroller>
+        <ns1:RoleItem id="role" skinName="RoleItemSkin" y="740" x="280" />
+        <ns1:RoleJobItem id="roleJob" skinName="RoleJobItemSkin" x="170" y="832" />
+        <e:Group id="topGrp" x="36" y="21" width="290">
+            <e:Image x="0" y="-3" source="energy_bar_btn_png" />
+            <e:Group id="energyBtn" y="0" x="182" width="68" height="68" />
+            <e:Label id="energyNum" size="26" touchEnabled="false" text="0" x="38" y="35" stroke="3"
+                     strokeColor="0x374253" bold="true" />
+            <e:Label id="leftTimeLab" size="25" touchEnabled="false" text="00:00" bold="true" y="26"
+                     textColor="0x3C3935" x="86" />
+            <ns1:BaseBtn id="setBtn" label="" skinName="Btn2Skin" icon="index_set_png" x="277" y="7" />
+        </e:Group>
+        <e:Group id="bottomGrp" height="260" x="202" y="1027">
+            <ns1:BaseBtn id="playBtn" label="" y="140" skinName="Btn2Skin" x="0" icon="index_play_btn_png" />
+            <ns1:BaseBtn id="upgradeBtn" label="" y="10" skinName="Btn2Skin" x="0" icon="upgrade_action_character_png" />
+        </e:Group>
+        <e:Group id="leftGrp" width="120" height="260" x="35" y="1027">
+            <ns1:BaseBtn id="dailyBtn" label="" y="-130" icon="btn_duanan_png" skinName="Btn3Skin" x="-2"
+                         visible="false" />
+            <ns1:BaseBtn id="recruitkBtn" label="3" y="0" icon="index_recruit_btn_png" skinName="Btn3Skin" x="16" />
+            <ns1:BaseBtn id="freeBtn" label="" y="130" skinName="Btn2Skin" x="0" icon="index_energy_btn_png" />
+            <e:Image id="recruitRed" y="-7" source="red_dot_png" x="82" touchEnabled="false" visible="false" />
+        </e:Group>
+        <e:Group id="stageGrp" y="1090" horizontalCenter="0">
+            <e:Image y="0" x="0" source="number_need_png" />
+            <e:Image y="10" x="10" source="number_0_png" />
+            <e:Image y="10" x="10" source="number_protagonist_png" />
+            <e:layout>
+                <e:HorizontalLayout gap="0" />
+            </e:layout>
+        </e:Group>
+        <e:Group id="rightGrp" width="120" height="260" x="595" y="1027">
+            <ns1:BaseBtn id="rankBtn" label="" y="-130" skinName="Btn2Skin" x="13" icon="index_rank_btn_png" />
+            <ns1:BaseBtn id="wordBtn" label="" y="0" skinName="Btn2Skin" x="11" icon="index_glossary_btn_png" />
+            <ns1:BaseBtn id="musicBtn" label="" y="130" skinName="Btn2Skin" x="0" icon="index_bgm_on_btn_png" />
+        </e:Group>
+    </e:Group>
+</e:Skin>
+

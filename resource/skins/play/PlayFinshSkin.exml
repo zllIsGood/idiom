@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="PlayFinshSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="1" fillColor="0xFFF7E7" />
+    <e:Group id="grp" width="750" height="1334" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="bg" y="150" source="complete_crown_png" horizontalCenter="0" />
+        <e:Image y="220" horizontalCenter="0" source="ui_finish_lab_png" />
+        <e:Group id="topGrp" x="30" y="21">
+            <e:Image x="0" y="-3" source="energy_bar_btn_png" />
+            <e:Group id="energyBtn" y="0" x="182" width="68" height="68" />
+            <e:Label id="energyNum" size="26" touchEnabled="false" text="0" x="38" y="35" stroke="3"
+                     strokeColor="0x384253" bold="true" />
+            <e:Label id="leftTimeLab" size="25" touchEnabled="false" text="00:00" bold="true" y="26"
+                     textColor="0x3D3936" x="86" />
+        </e:Group>
+        <e:Group id="stageGrp" y="928" horizontalCenter="85">
+            <e:Image y="0" x="0" source="number_need_png" />
+            <e:Image y="10" x="10" source="number_0_png" />
+            <e:Image y="10" x="10" source="number_protagonist_png" />
+            <e:layout>
+                <e:HorizontalLayout gap="0" />
+            </e:layout>
+        </e:Group>
+        <e:Group id="stageNumGrp" y="287" horizontalCenter="0">
+            <e:Image y="0" x="0" source="number_no_png" />
+            <e:Image y="10" x="10" source="number_0_png" />
+            <e:Image y="10" x="10" source="number_level_png" />
+            <e:layout>
+                <e:HorizontalLayout gap="0" />
+            </e:layout>
+        </e:Group>
+        <e:Rect fillAlpha="1" fillColor="0xFAE8C1" horizontalCenter="0" width="715" height="283" y="578" />
+        <e:Label size="28" touchEnabled="false" text="点击成语查看释义" x="40" y="545" bold="true" textColor="0x89512E" />
+        <e:Group id="wordGrp" x="32" y="613" width="696">
+            <ns1:WordItem id="" y="0" x="0" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="10" x="10" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="20" x="20" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="30" x="30" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="40" x="40" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="50" x="50" skinName="WordItemSkin" />
+            <ns1:WordItem id="" y="60" x="60" skinName="WordItemSkin" />
+            <e:layout>
+                <e:TileLayout horizontalGap="9" verticalGap="23" />
+            </e:layout>
+        </e:Group>
+        <e:CheckBox id="checkbox" y="1110" skinName="CheckBox2" x="323" />
+        <ns1:BaseBtn id="nextBtn" label="" skinName="Btn2Skin" icon="next_pass_btn_png" x="284" y="985" />
+        <ns1:BaseBtn id="returnBtn" label="" skinName="Btn2Skin" icon="home_btn_png" x="134" y="985" />
+        <e:Image id="red" y="985" source="red_dot_png" x="224" touchEnabled="false" />
+        <ns1:BaseBtn id="shareBtn" label="" skinName="Btn2Skin" icon="energy_dialog_share_01_png" x="633" y="986.5"
+                     anchorOffsetX="46" anchorOffsetY="47.5" />
+    </e:Group>
+</e:Skin>
+

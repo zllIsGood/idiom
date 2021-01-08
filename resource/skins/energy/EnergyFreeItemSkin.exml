@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="EnergyFreeItemSkin" width="580" height="135" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Image source="dialog_minbg_png" scale9Grid="20,21,14,129" left="0" right="0" top="0" bottom="0" />
+    <e:Image id="imgGet" y="70" source="energy_bar_icon_png" x="240" scaleX="0.5" scaleY="0.5" />
+    <e:Image id="img" y="31" source="energy_dialog_share_png" x="32" />
+    <e:Label id="lab1" size="33" touchEnabled="false" text="分享获取" y="30" x="125" textColor="0x372513" bold="true" />
+    <e:Label id="lab2" size="28" touchEnabled="false" text="获得：0" y="75" x="125" textColor="0xEF6C65" bold="true" />
+    <ns1:BaseBtn id="btn" label="" skinName="Btn2Skin" icon="energy_dialog_watch_png" verticalCenter="0" right="22" />
+</e:Skin>
+

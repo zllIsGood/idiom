@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RoleItemSkin" width="200" height="250" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+    <e:Image id="role1" anchorOffsetY="0" y="0" horizontalCenter="0" source="" />
+    <e:Image id="role2" rotation="0" y="0" x="100" source="" />
+    <e:Image id="roleF" rotation="0" y="0" source="" x="100" />
+</e:Skin>
+

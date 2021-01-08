@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RoleUpLevelSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="1334">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.6" />
+    <e:Group width="702" height="925" horizontalCenter="0" verticalCenter="-18.5">
+        <e:Image id="bg" x="0" y="0" height="925" source="bg_tc_png" scale9Grid="190,155,282,15" />
+        <e:Image id="topImg" y="-7" horizontalCenter="0" source="img_kqgm_png" />
+        <e:Scroller id="scrol" width="565" height="710" x="61" y="145">
+            <e:List id="list" itemRendererSkinName="RoleLevelItemSkin">
+                <e:ArrayCollection>
+                    <e:Array></e:Array>
+                </e:ArrayCollection>
+                <e:layout>
+                    <e:VerticalLayout horizontalAlign="center" gap="12" paddingTop="5" />
+                </e:layout>
+            </e:List>
+        </e:Scroller>
+        <e:Group id="closeBtn" y="44" width="80" height="80" right="6"></e:Group>
+    </e:Group>
+</e:Skin>
+
